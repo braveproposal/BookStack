@@ -68,7 +68,7 @@ return [
     // Shelves
     'shelf' => '書架',
     'shelves' => '書架',
-    'x_shelves' => ':架|:章節',
+    'x_shelves' => ':count座書架',
     'shelves_long' => '書架',
     'shelves_empty' => '不存在已建立的書架',
     'shelves_create' => '建立書架',
